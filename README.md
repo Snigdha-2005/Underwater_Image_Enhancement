@@ -1,4 +1,4 @@
-Project Name: Underwater_Image_Enhancement
+Project Name: Underwater Image Enhancement
 
 Student Name: Snigdha Das
 
@@ -6,4 +6,4 @@ Student Code: BWU/BCA/23/482
 
 Section: E
 
-BCA FINAL YEAR
+BCA 4th Year 
